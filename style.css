@@ -1,0 +1,220 @@
+@charset "UTF-8"
+
+.borda {
+display: inline-block;
+background-color: red;
+border: 2px solid black;
+width: 200px;
+height: 200px;
+}
+.vermelha1 {
+display: inline-block;
+background-color: red;
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+.vermelha2 {
+display: inline-block;
+background-color: red;
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+.vermelha3 {
+display: inline-block;
+background-color: red;
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+.vermelha4 {
+display: inline-block;
+background-color: red;
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+.vermelha5 {
+display: inline-block;
+background-color: red;
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+.vermelha6 {
+display: inline-block;
+background-color: red;
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+.vermelha7 {
+display: inline-block;
+background-color: red;
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+
+.borda:hover {
+background-color: aqua;
+border: 3px solid black;
+}
+
+.azul1 {
+display: inline-block;
+background-color: rgba(52, 174, 231, 0.938);
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}  
+.azul2 {
+display: inline-block;
+background-color: rgba(52, 174, 231, 0.938);
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+.azul3 {
+display: inline-block;
+background-color: rgba(52, 174, 231, 0.938);
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+.azul4 {
+display: inline-block;
+background-color: rgba(52, 174, 231, 0.938);
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+.azul5 {
+display: inline-block;
+background-color: rgba(52, 174, 231, 0.938);
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+.azul6 {
+display: inline-block;
+background-color: rgba(52, 174, 231, 0.938);
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+.azul7 {
+display: inline-block;
+background-color: rgba(52, 174, 231, 0.938);
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+.borda {
+    display: inline-block;
+    background-color: red;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    }
+
+.verde1 {
+display: inline-block;
+background-color: rgba(23, 148, 39, 0.938);
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+.verde2 {
+display: inline-block;
+background-color: rgba(23, 148, 39, 0.938);
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+.verde3 {
+display: inline-block;
+background-color: rgba(23, 148, 39, 0.938);
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+.verde4 {
+display: inline-block;
+background-color: rgba(23, 148, 39, 0.938);
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+.verde5 {
+display: inline-block;
+background-color: rgba(23, 148, 39, 0.938);
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+.verde6 {
+display: inline-block;
+background-color: rgba(23, 148, 39, 0.938);
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+.verde7 {
+display: inline-block;
+background-color: rgba(23, 148, 39, 0.938);
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+
+.amarelo1 {
+display: inline-block;
+background-color: rgba(235, 220, 9, 0.938);
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+.amarelo2 {
+display: inline-block;
+background-color: rgba(235, 220, 9, 0.938);
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+.amarelo3 {
+display: inline-block;
+background-color: rgba(235, 220, 9, 0.938);
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+.amarelo4 {
+display: inline-block;
+background-color: rgba(235, 220, 9, 0.938);
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+.amarelo5 {
+display: inline-block;
+background-color: rgba(235, 220, 9, 0.938);
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+.amarelo6 {
+display: inline-block;
+background-color: rgba(235, 220, 9, 0.938);
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
+.amarelo7 {
+display: inline-block;
+background-color: rgba(235, 220, 9, 0.938);
+border: 1px solid black;
+width: 200px;
+height: 200px;
+}
